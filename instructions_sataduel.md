@@ -33,7 +33,7 @@ Primero, exige el **nombre del personaje**. Luego muestra:
 
 ## 5. Menú Permanente
 
-En cada respuesta (menos la primera) mostrar:
+En cada respuesta (menos la primera y menos cuando se solicita elegir una característica) mostrar:
 * 1️⃣ Ver resumen
 * 2️⃣ Seguir creando
 * 3️⃣ Finalizar personaje
