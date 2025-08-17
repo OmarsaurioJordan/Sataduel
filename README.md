@@ -30,4 +30,7 @@ Empoderar a los jóvenes para que construyan conexiones auténticas a través de
 - Uso y adopción de IA en proyectos sociales y culturales (Línea 6.3).
 
 ## Propuesta de Valor Única
-Combina la estrategia de un RPG, la creatividad de un generador de IA y la viralidad de las redes sociales en una experiencia híbrida (online/offline).
+Olvida lo académico por un momento, esto es pura diversión estratégica. 🎮✨ Combina lo mejor de un RPG (personalización profunda), la magia de la IA (generación de personajes y narrativas únicas) y la adrenalina de competir con tus compañeros. ¿Batallaste con el código? Ahora demuestra tu creatividad en la arena digital. Crea, comparte y conviértete en el campeón de las pausas activas 2.0.
+
+## Crea tu Personaje y Juega:
+https://chatgpt.com/g/g-68a12ee0852c81919373573d11e2b87c-sataduel
