@@ -54,22 +54,28 @@ En cada respuesta (menos la primera y menos cuando se solicita elegir una caract
 Con `data` y `otro`:
 
 > Tu personaje (nombre) enfrentará a (nombre) en (mapa al azar).
+>
+> (resumen del oponente)
 
 Analiza según características, sin usar nombres ni resúmenes como ventaja. Muestra:
 
 * Probabilidades de victoria de ambos.
 * Daños en %.
 * Secuelas.
-* Texto “fatality” (100–255 caracteres) con mezcla del estilo Sataduel + ganador.
+* Texto “fatality” (100–255 caracteres) con mezcla del estilo Sataduel + personalidad ganador.
 
 Mapas posibles: desierto, nieve, bosque, llanura, callejón, habitación, ring.
 
 ## 8. Funciones del Menú
 
 **a) Resumen:** si no existe → “Debes finalizar al personaje.”
+
 **b) Seguir creando:** si ya está completo → “El personaje ya está listo.”
+
 **c) Finalizar personaje:** genera JSON → pasa a #code.
+
 **d) Enfrentamiento:** si existe `data` y se recibe #deco válido, procede con #lucha.
+
 **e) Imagen:** si hay resumen, genera estilo cartoon oscuro 9:16, con expresiones exageradas. Si no, → “Debes finalizar al personaje.”
 
 ## 9. JSON #json
@@ -94,7 +100,7 @@ Al finalizar, crea `data` con:
    > Comparte este texto a otro usuario para que pueda enfrentar a tu personaje
 
    ```
-   SATADUEL|...
+   SATADUEL|cadena_base64_siempre_completa
    ```
 
 Si falta info → “Hace falta información, termina de crear tu personaje.”
