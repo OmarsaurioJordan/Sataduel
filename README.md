@@ -11,8 +11,8 @@ Empoderar a los jóvenes para que construyan conexiones auténticas a través de
 - Combate IA: Resultados probabilísticos + mini-historia generada por GPT-4.
 
 ## 👥 Comunidad objetivo
-Primer mercado: Estudiantes SENA (16-25 años) → Validación en entornos educativos.
-Perfil: Gamers casuales + creadores de contenido en redes.
+- Primer mercado: Estudiantes SENA (16-25 años) → Validación en entornos educativos.
+- Perfil: Gamers casuales + creadores de contenido en redes.
 
 ## 📊 Métrica de éxito
 - Crecimiento: 500 avatares creados (primer mes).
