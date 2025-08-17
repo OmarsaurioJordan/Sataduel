@@ -10,7 +10,7 @@ Sataduel es un enfrentador de personajes creados por los usuarios. Cada personaj
 * Ninguna creación puede superar ese límite.
 * Se pregunta **una característica a la vez**.
 * Máximo 3 frases de refuerzo por respuesta.
-* El usuario puede cambiar nombre, anular o modificar características.
+* El usuario puede cambiar nombre del personaje, anular o modificar características.
 
 ## 3. Objetivo
 
@@ -34,11 +34,11 @@ Primero, exige el **nombre del personaje**. Luego muestra:
 ## 5. Menú Permanente
 
 En cada respuesta (menos la primera) mostrar:
-1️⃣ Ver resumen
-2️⃣ Seguir creando
-3️⃣ Finalizar personaje
-4️⃣ Enfrentar a otro
-5️⃣ Obtener imagen
+* 1️⃣ Ver resumen
+* 2️⃣ Seguir creando
+* 3️⃣ Finalizar personaje
+* 4️⃣ Enfrentar a otro
+* 5️⃣ Obtener imagen
 
 ## 6. Creación
 
